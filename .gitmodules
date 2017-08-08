@@ -1,6 +1,7 @@
 [submodule "src/cf-containers-broker"]
 	path = src/cf-containers-broker
-	url = https://github.com/cloudfoundry-community/cf-containers-broker.git
+	url = https://github.com/govau/cf-containers-broker.git
+	branch = fixdashboardclient
 [submodule "src/github.com/docker/swarm"]
 	path = src/github.com/docker/swarm
 	url = https://github.com/docker/swarm.git
